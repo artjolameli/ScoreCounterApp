@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScoreCounterApplication</string>
+    <string name="text_count_initial_value1">0</string>
+    <string name="text_count_initial_value2">0</string>
+    <string name="btn_text_click_me1">Count Up</string>
+    <string name="btn_text_click_me2">Count Up</string>
+    <string name="Team_B">TEAM B</string>
+    <string name="team_A">TEAM A</string>
+    <string name="winner">The Winner is</string>
+    <string name="search_button">Search</string>
+    <string name="call_button">Call</string>
+    <string name="message_button">Message</string>
+    <string name="tv1">Text Message</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_message">Send</string>
+    <string name="location">LOCATION</string>
+    <string name="map_location">MAP LOCATION</string>
+    <string name="enter_text">ENTER TEXT</string>
+    <string name="plain_text">PLAIN TEXT</string>
+</resources>
